@@ -1,1 +1,1 @@
-# Sistem-Pendukung-Keputusan-Beasiswa-Menggunakan-Metode-SAW
+## Sistem Pendukung Keputusan (SPK) Beasiswa GEN BI - Motede SAW
